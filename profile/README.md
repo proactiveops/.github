@@ -6,4 +6,4 @@ You can find code here which helps your team adopt Proactive Ops practices. For 
 
 [Sign up for our newsletter](https://www.proactiveops.io/subbscribe?tag=github) so you never miss an article.🌊
 
-Protected by [https://nullify.ai](https://www.nullify.ai/?utm_source=github&utm_campaign=proactiveops&utm_medium=community).
+Protected by [nullify](https://www.nullify.ai/?utm_source=github&utm_campaign=proactiveops&utm_medium=community).
